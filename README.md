@@ -32,8 +32,12 @@ Tool
 ## <span style="color:#004680"> 🖥 &nbsp; 기능 구현 사항 </span>
 
 - **회원가입 페이지**
+  - **useForm, validation 처리**
+  - **Back-end API 통신**
 
 - **로그인 페이지**
+  - **useForm, validation 처리**
+  - **Back-end API 통신**
 
 - 거래소 페이지
   - **메인그래프 기능**
