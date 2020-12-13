@@ -20,10 +20,12 @@ Back-end
 - Python, Django
 - PyJWT, Bcrypt
 - MySQL
+
 Front-end
 - React, React hooks
 - Javascript(ES6+)
 - styled-component
+
 Tool
 - Github
 
